@@ -12,8 +12,8 @@ return [
             'default' => [
                 'host' => 'localhost',
                 'dbname' => 'magento227',
-                'username' => 'admin',
-                'password' => 'Desarr_587',
+                'username' => 'root',
+                'password' => '1234',
                 'active' => '1'
             ]
         ]
